@@ -2,7 +2,7 @@
 * Primera pagina web 100% HTML5 aplicando lo aprendido por el curso de Dalto, no es una pagina web funcional en si ya que solo estan las bases de HTML5
 * Asi es como luce la pagina:
 
-    <img width=250 src=https://github.com/MarcoPaoletta/PrimeraWebHTML5/blob/main/Demostration.gif>
+    <img width=400 src=https://github.com/MarcoPaoletta/PrimeraWebHTML5/blob/main/Demostration.gif>
 
 ---
 
