@@ -1,4 +1,4 @@
-# PrimeraWebHTML5
+# Primera Web HTML5
 * Primera pagina web 100% HTML5 aplicando lo aprendido por el curso de Dalto, no es una pagina web funcional en si ya que solo estan las bases de HTML5
 * Asi es como luce la pagina:
 
